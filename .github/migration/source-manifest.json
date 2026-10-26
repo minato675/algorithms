@@ -1,0 +1,101 @@
+{
+  "migration_date": "2026-10-26",
+  "target": "https://github.com/minato675/algorithms",
+  "method": "non-squashed subtree merge; original Git objects unchanged",
+  "sources": [
+    {
+      "name": "A-_-",
+      "url": "https://github.com/minato675/A-_-",
+      "directory": "A-_-",
+      "default_branch": "master",
+      "head": "a7192f35ccad16081ee4836f9eb8e865556e949d",
+      "tree": "567e8fc0c9fa416d531a4376a1774b763b1ef709",
+      "refs": {
+        "refs/heads/master": "a7192f35ccad16081ee4836f9eb8e865556e949d"
+      },
+      "commits": [
+        "34f15d04de8423c0c53f6051e9f8951c221d4b31",
+        "5df073aba784a8d699824f8ae4b453990a9523ad",
+        "8c07d2915d43367029fdaccac3505146ae0ed7d4",
+        "a7192f35ccad16081ee4836f9eb8e865556e949d",
+        "aab1100ee6999c3eb5db30091a06d63db59c3039",
+        "e21caada9582e90e5009f5e959fe4b631060bf0a"
+      ],
+      "commit_count": 6,
+      "file_count": 17,
+      "history_branch": "history/A-_-/master",
+      "bundle_sha256": "ac4e9dcc6934637c84e37f6886e38b2da29d89a4e5b7d4e5b729f9f04eeb039f"
+    },
+    {
+      "name": "B-",
+      "url": "https://github.com/minato675/B-",
+      "directory": "B-",
+      "default_branch": "master",
+      "head": "2c237923078c5a3534c8636e75ae4a17ec8845e6",
+      "tree": "35d1c98af6d04f350d3ca7e7369b3b8aa3cbcf7e",
+      "refs": {
+        "refs/heads/master": "2c237923078c5a3534c8636e75ae4a17ec8845e6"
+      },
+      "commits": [
+        "2c237923078c5a3534c8636e75ae4a17ec8845e6"
+      ],
+      "commit_count": 1,
+      "file_count": 2,
+      "history_branch": "history/B-/master",
+      "bundle_sha256": "45fa020084b9bc5f8f5f6533d6e5877328afcb9428726c6d6926620e829b5d00"
+    },
+    {
+      "name": "TIL",
+      "url": "https://github.com/minato675/TIL",
+      "directory": "TIL",
+      "default_branch": "master",
+      "head": "c81de6362f5b0f641ed2adabb75c13835b9dee14",
+      "tree": "0fc5801e34fd6d90bf8c5c1e9a3863b93c082cbd",
+      "refs": {
+        "refs/heads/master": "c81de6362f5b0f641ed2adabb75c13835b9dee14"
+      },
+      "commits": [
+        "0fbec722fad550064c0c879601c1e5f747d58c58",
+        "1fff167547794f50ab373bf26e0e4685af7c67df",
+        "211c44a9845a17f841fd38eb1807443d9ddf6d9e",
+        "2e6b37b155b58fb503012053e5d7ef3d40a3701e",
+        "35cd6c5dd089327be23c4c8482e87ae36cea6d4f",
+        "5230d5944305447f8835946584400252de1c6704",
+        "7a53b33aca7b00476b95939f41e4b593b561bfef",
+        "a2d77a65ca4b225deeb4ed81eac2ba1d2cc6c6c6",
+        "a3c7078afb0db4b95925c0af692db82c5758d0eb",
+        "c81de6362f5b0f641ed2adabb75c13835b9dee14",
+        "d434abc045e6eacbfa15d46bca0486cf0f39be22",
+        "d5149485081838e39e2575378c2d4484e1192cfb",
+        "dfa8a8b7338c406a2ed87d4a07bdbad423b2e9a8"
+      ],
+      "commit_count": 13,
+      "file_count": 89,
+      "history_branch": "history/TIL/master",
+      "bundle_sha256": "c883ba7318fc7f072c31379b234d485d2c67e1caa7b7d8a4a1cf1f4300cc56f6"
+    },
+    {
+      "name": "swea",
+      "url": "https://github.com/minato675/swea",
+      "directory": "swea",
+      "default_branch": "master",
+      "head": "1f75cd9143eb064e38e6d9fdc7a3fe7a840b849d",
+      "tree": "41ccb07d4e8794c1aea619c75c298ae3a9631635",
+      "refs": {
+        "refs/heads/master": "1f75cd9143eb064e38e6d9fdc7a3fe7a840b849d"
+      },
+      "commits": [
+        "0f777812512e27e88107fb03efed1e9a5a5a91bd",
+        "1f75cd9143eb064e38e6d9fdc7a3fe7a840b849d",
+        "b519366d199a8aa2cb1d3884c1126e8db30052dc",
+        "bf78019b511e1ef2f587a41289dff0737e5408ad",
+        "bfd1a9463a53bc6f4364315cb135a5d3324abfaf",
+        "d0f74cf65a5a80ffabca7a31d94ae1ea946ffc18"
+      ],
+      "commit_count": 6,
+      "file_count": 11,
+      "history_branch": "history/swea/master",
+      "bundle_sha256": "12b98a62ceda720e8ac4483d3a8c98478f6b168bacd7eadc6311544d01aba466"
+    }
+  ]
+}
